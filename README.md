@@ -11,7 +11,7 @@
 ---
 --- 
 ### 2. let start arp spoofing command
- 1) $arp_spoof -i [your interface] -t [target(victim) ip address] -s [spoofing ip address]
+ 1) $ arp_spoof -i [your interface] -t [target(victim) ip address] -s [spoofing ip address]
 --- 
 --- 
  
